@@ -12,6 +12,7 @@ services:
       interval: 5s
       timeout: 3s
       retries: 20
+
   app:
     build: .
     ports:
@@ -28,11 +29,6 @@ services:
     depends_on:
       db:
         condition: service_healthy
-volumes:
-  pgdata:
-
-
-
     healthcheck:
       test:
         - CMD
@@ -43,3 +39,6 @@ volumes:
       timeout: 5s
       retries: 20
       start_period: 10s
+
+volumes:
+  pgdata:
