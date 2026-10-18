@@ -1,0 +1,297 @@
+{
+  "scope": "Offline retrieval, expected-term coverage and abstention on editorial summaries. Not a live LLM accuracy benchmark.",
+  "passed": 30,
+  "total": 30,
+  "cases": [
+    {
+      "question": "How do badge tokens and progression work?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-badge-progression"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 2
+    },
+    {
+      "question": "How many badge slots do players begin with?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-badge-progression",
+        "official-badge-loadouts"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "Where can badge tokens be earned?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-badge-progression"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "Are event-earned tokens discipline-specific?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-badge-progression"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "What is the Physicals badge discipline?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-badge-progression",
+        "official-builder"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "How do badge loadouts and Synergy work?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-badge-loadouts"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "When can I select a loadout before a game?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-badge-loadouts"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "How many Synergy slots are described?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-badge-loadouts"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "What are Fuse and Reaction badges?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-badge-loadouts"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "Can REP and Challenges provide more loadouts?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-badge-loadouts"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "What does the NBA 2K HQ app support?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-builder"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "How many Signature Blueprint templates are described?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-builder"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "Does appearance determine player performance?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-builder"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "How do weight and wingspan affect the builder?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-builder"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "How does rhythm shooting handle free throws?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-shooting"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "Does Rhythm Shooting require green timing?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-shooting"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "What does the shot-meter tempo indicator track?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-shooting"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 16
+    },
+    {
+      "question": "How does hands-up defense handle contests?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-defense"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 1
+    },
+    {
+      "question": "What does color feedback say about contest direction?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-defense"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "What do defensive cutoffs and ball contact consider?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-defense"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "How do Takeover meters activate an ability?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-takeover"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "Which disciplines have separate Takeover meters?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-takeover"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "What changes in Season 2 GOAT Builds?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-season2"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "Are GOAT Builds animations and statistics fixed?",
+      "passed": true,
+      "abstained": false,
+      "sources": [
+        "official-season2"
+      ],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "Explain quantum entanglement",
+      "passed": true,
+      "abstained": true,
+      "sources": [],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "Give me a chocolate brownie recipe",
+      "passed": true,
+      "abstained": true,
+      "sources": [],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "What is the capital of Iceland?",
+      "passed": true,
+      "abstained": true,
+      "sources": [],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "What three-point rating unlocks a gold shooting badge?",
+      "passed": true,
+      "abstained": true,
+      "sources": [],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "What is the VC cost of my next upgrade?",
+      "passed": true,
+      "abstained": true,
+      "sources": [],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    },
+    {
+      "question": "badge tokens progression",
+      "passed": true,
+      "abstained": true,
+      "sources": [],
+      "expected_terms_present": true,
+      "latency_ms": 0
+    }
+  ]
+}

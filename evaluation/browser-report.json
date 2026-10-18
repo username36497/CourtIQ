@@ -1,0 +1,10 @@
+{
+  "accountRegistration": true,
+  "logout": true,
+  "pageErrors": [],
+  "mobileOverflow": false,
+  "buildSave": true,
+  "sourceBackedChat": true,
+  "persistedHistory": true,
+  "knowledgeView": true
+}

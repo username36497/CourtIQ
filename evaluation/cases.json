@@ -1,0 +1,200 @@
+[
+  {
+    "question": "How do badge tokens and progression work?",
+    "source": "official-badge-progression",
+    "expected_terms": [
+      "20",
+      "tokens"
+    ]
+  },
+  {
+    "question": "How many badge slots do players begin with?",
+    "source": "official-badge-progression",
+    "expected_terms": [
+      "20"
+    ]
+  },
+  {
+    "question": "Where can badge tokens be earned?",
+    "source": "official-badge-progression",
+    "expected_terms": [
+      "practice"
+    ]
+  },
+  {
+    "question": "Are event-earned tokens discipline-specific?",
+    "source": "official-badge-progression",
+    "expected_terms": [
+      "discipline"
+    ]
+  },
+  {
+    "question": "What is the Physicals badge discipline?",
+    "source": "official-badge-progression",
+    "expected_terms": [
+      "Physicals"
+    ]
+  },
+  {
+    "question": "How do badge loadouts and Synergy work?",
+    "source": "official-badge-loadouts",
+    "expected_terms": [
+      "loadout",
+      "Synergy"
+    ]
+  },
+  {
+    "question": "When can I select a loadout before a game?",
+    "source": "official-badge-loadouts",
+    "expected_terms": [
+      "before"
+    ]
+  },
+  {
+    "question": "How many Synergy slots are described?",
+    "source": "official-badge-loadouts",
+    "expected_terms": [
+      "16"
+    ]
+  },
+  {
+    "question": "What are Fuse and Reaction badges?",
+    "source": "official-badge-loadouts",
+    "expected_terms": [
+      "Fuse",
+      "Reaction"
+    ]
+  },
+  {
+    "question": "Can REP and Challenges provide more loadouts?",
+    "source": "official-badge-loadouts",
+    "expected_terms": [
+      "REP",
+      "Challenges"
+    ]
+  },
+  {
+    "question": "What does the NBA 2K HQ app support?",
+    "source": "official-builder",
+    "expected_terms": [
+      "sharing"
+    ]
+  },
+  {
+    "question": "How many Signature Blueprint templates are described?",
+    "source": "official-builder",
+    "expected_terms": [
+      "40"
+    ]
+  },
+  {
+    "question": "Does appearance determine player performance?",
+    "source": "official-builder",
+    "expected_terms": [
+      "appearance"
+    ]
+  },
+  {
+    "question": "How do weight and wingspan affect the builder?",
+    "source": "official-builder",
+    "expected_terms": [
+      "weight",
+      "wingspan"
+    ]
+  },
+  {
+    "question": "How does rhythm shooting handle free throws?",
+    "source": "official-shooting",
+    "expected_terms": [
+      "free throws"
+    ]
+  },
+  {
+    "question": "Does Rhythm Shooting require green timing?",
+    "source": "official-shooting",
+    "expected_terms": [
+      "green"
+    ]
+  },
+  {
+    "question": "What does the shot-meter tempo indicator track?",
+    "source": "official-shooting",
+    "expected_terms": [
+      "Pro Stick"
+    ]
+  },
+  {
+    "question": "How does hands-up defense handle contests?",
+    "source": "official-defense",
+    "expected_terms": [
+      "contest"
+    ]
+  },
+  {
+    "question": "What does color feedback say about contest direction?",
+    "source": "official-defense",
+    "expected_terms": [
+      "direction"
+    ]
+  },
+  {
+    "question": "What do defensive cutoffs and ball contact consider?",
+    "source": "official-defense",
+    "expected_terms": [
+      "ratings"
+    ]
+  },
+  {
+    "question": "How do Takeover meters activate an ability?",
+    "source": "official-takeover",
+    "expected_terms": [
+      "maximum"
+    ]
+  },
+  {
+    "question": "Which disciplines have separate Takeover meters?",
+    "source": "official-takeover",
+    "expected_terms": [
+      "Rebounding"
+    ]
+  },
+  {
+    "question": "What changes in Season 2 GOAT Builds?",
+    "source": "official-season2",
+    "expected_terms": [
+      "caps"
+    ]
+  },
+  {
+    "question": "Are GOAT Builds animations and statistics fixed?",
+    "source": "official-season2",
+    "expected_terms": [
+      "fixed"
+    ]
+  },
+  {
+    "question": "Explain quantum entanglement",
+    "abstain": true
+  },
+  {
+    "question": "Give me a chocolate brownie recipe",
+    "abstain": true
+  },
+  {
+    "question": "What is the capital of Iceland?",
+    "abstain": true
+  },
+  {
+    "question": "What three-point rating unlocks a gold shooting badge?",
+    "abstain": true
+  },
+  {
+    "question": "What is the VC cost of my next upgrade?",
+    "abstain": true
+  },
+  {
+    "question": "badge tokens progression",
+    "patch": "missing-patch",
+    "abstain": true
+  }
+]
